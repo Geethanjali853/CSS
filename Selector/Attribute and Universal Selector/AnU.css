@@ -1,0 +1,11 @@
+a{
+    background-color: Yellow;
+}
+/*Attribute*/
+a[target]{
+    background-color: red;
+}
+/*Unverisal*/
+*{
+    font-family: cursive;
+}
